@@ -2,7 +2,7 @@
 
 **Link to project:** https://t-t-t-challenge.netlify.app/
 
-![alt tag](https://api.apify.com/v2/key-value-stores/xNLNDH5nIOoix2efP/records/ringcraftboxing.netlify.app-scroll_original)
+![alt tag](https://api.apify.com/v2/key-value-stores/HqcvIZogcDpemSRmn/records/t-t-t-challenge.netlify.app-scroll_lossy-comp)
 
 ## How It's Made:
 
