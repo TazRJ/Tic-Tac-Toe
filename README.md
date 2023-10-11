@@ -2,7 +2,7 @@
 
 **Link to project:** https://t-t-t-challenge.netlify.app/
 
-![alt tag](https://api.apify.com/v2/key-value-stores/HqcvIZogcDpemSRmn/records/t-t-t-challenge.netlify.app-scroll_lossy-comp)
+<img width="325" alt="image" src="https://github.com/TazRJ/Tic-Tac-Toe/assets/99307581/8a40fb4e-5791-4d9c-8652-cf1c15d20f65">
 
 ## How It's Made:
 
