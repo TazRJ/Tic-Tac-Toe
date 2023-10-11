@@ -92,6 +92,7 @@ function checkWinner(){ //function is called during every cell being clicked and
     //the the game has been won:
     if(gameWon){
         statusText.textContent = `${currentPlayer} wins!`
+        running = false
     } else if (!selections.includes("")){ //if the selections array has been filled without one player winning, the game is a draw, and the game ends
         statusText.textContent = `Draw!`
         running = false
